@@ -5,6 +5,7 @@ class Attendance extends Component{
     constructor(props){
         super(props)
         this.state={
+            date: null,
             present:"true",
             abscent:"false",
             morning:"true",
@@ -20,6 +21,7 @@ class Attendance extends Component{
         this.setSession = this.setSession.bind(this);
         this.handleInputChange = this.handleInputChange.bind(this);
         this.submitLogic = this.submitLogic.bind(this)
+        this.setDate = this.setDate.bind(this)
     
     }
     fetchStudentNames() {
@@ -49,9 +51,8 @@ class Attendance extends Component{
      handleInputChange(event) {
          if(event.target.checked===true){
              event.target.checked = true 
-            alert(""+event.target.name)
              let someProperty = { ...this.state.list.list }
-             someProperty[event.target.name] = this.state.decision==="present"?"abscent":"present";
+             someProperty[event.target.name] = "present"
              console.log(someProperty[event.target.name])
             this.setState({
                 list:{
@@ -60,10 +61,9 @@ class Attendance extends Component{
             })
          }
          else{
-             alert("false")
              event.target.checked=false
              let someProperty = { ...this.state.list.list }
-             someProperty[event.target.name] = this.state.decision === "present" ? "abscent" : "present";
+             someProperty[event.target.name] = "abscent";
              this.setState({
                  list: {
                      list: someProperty
@@ -72,13 +72,17 @@ class Attendance extends Component{
          }
      }
      submitLogic(event){
+         if(this.state.date==null){
+             alert("date not selected");
+         }
+         else{
          alert("submitted")
          var obj = {
+             date:this.state.date,
              type:this.state.decision,
              session:this.state.session,
              list:this.state.list.list
          }
-         var jki = JSON.stringify(obj);
          fetch(`${BASE_URL}/attendance`,{
              method: 'post',
              headers:{
@@ -91,8 +95,13 @@ class Attendance extends Component{
             console.log("done")
         })
      }
-
-
+    }
+     setDate(e){
+         console.log(e.target.value);
+         this.setState({
+             date: e.target.value
+         })
+     }
     renderNames({StudentsList}){
         console.log("rendered")
         if (StudentsList){
@@ -174,6 +183,10 @@ class Attendance extends Component{
     render(){
         return (
            < div className="home_poll">
+           <div className="form-check">
+                <label className="form-check-label">Date:</label>
+                <input name="date" className="form-check-input" type="date"  id="date" onChange={this.setDate}/>
+            </div>
             <h3>Student Attendance</h3>
             <div className="form-check">
                 <label className="form-check-label">Presentees:</label>
