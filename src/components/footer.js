@@ -4,8 +4,8 @@ import React from 'react'
 const footer =()=>{
     return(
         <footer>
-            <nav class="navbar fixed-bottom navbar-light bg-light">
-  <a class="navbar-brand" href="#">footer </a>
+            <nav className="navbar navbar-light bg-light">
+            <a className="navbar-brand" href="#" >CAP 2018 </a>
 </nav>
         </footer>
     )

@@ -181,25 +181,29 @@ class Attendance extends Component{
 
     render(){
         return (
-           < div className="home_poll">
-           <div className="form-check">
-                <label className="form-check-label">Date:</label>
-                <input name="date" className="form-check-input" type="date"  id="date" onChange={this.setDate}/>
+           <div className="container">
+           <div className="row">
+                <div className="form-check">
+                    <label className="form-check-label">Date: </label>
+                    <input name="date"  type="date"  id="date" onChange={this.setDate}/>
+                </div>
             </div>
-            <h3>Student Attendance</h3>
+            <div className="row">
             <div className="form-check">
                 <label className="form-check-label">Presentees:</label>
-                <input name="decision" className="form-check-input"type="radio"  id="present" checked={this.state.present==="true"} onChange={this.setDecision}/><br/>
+                <input name="decision" type="radio"  id="present" checked={this.state.present==="true"} onChange={this.setDecision}/><br/>
                 <label className="form-check-label"> Absentees:</label>
-                <input name="decision" className="form-check-input" type="radio"  id="abscent" checked={this.state.abscent==="true"}onChange={this.setDecision}/>
+                <input name="decision"  type="radio"  id="abscent" checked={this.state.abscent==="true"}onChange={this.setDecision}/>
             </div>
+            </div>
+            <div className="row">
             <div className="form-check">
-                <label className="form-check-label">Morning:
-                <input name="session" className="form-check-input" type="radio" id="morning" checked={this.state.morning === "true"} onChange={this.setSession}/>
-                </label><br/>
-                <label className="form-check-label"> Afternoon:
-                <input name="session" className="form-check-input" type="radio" id="afternoon" checked={this.state.afternoon === "true"}onChange={this.setSession}/>
-                </label>
+                <label className="form-check-label">Morning:</label>
+                <input name="session"  type="radio" id="morning" checked={this.state.morning === "true"} onChange={this.setSession}/><br/>
+                <label className="form-check-label"> Afternoon:</label>
+                <input name="session"  type="radio" id="afternoon" checked={this.state.afternoon === "true"}onChange={this.setSession}/>
+                
+            </div>
             </div>
             <div>
                 <table className="table">
@@ -215,8 +219,8 @@ class Attendance extends Component{
                     </thead>
                 {this.renderNames(this.state)}
                 </table>
+                <button className ="btn btn-primary" onClick={this.submitLogic}>submit</button>
             </div>
-            <button className ="btn btn-primary" onClick={this.submitLogic}>submit</button>
            </div>
         
         )  
