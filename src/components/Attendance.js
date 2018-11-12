@@ -149,10 +149,9 @@ class Attendance extends Component{
             resolve(dict)
         })
         promise1.then((value)=>{
-            for (let i = 0; i < this.state.StudentsList.length; i++) {
-                 console.log(this.state.StudentsList);
+            for (let i = 0; i < this.state.StudentsList.length; i++)
                 value[this.state.StudentsList[i].rollno] = this.state.decision;
-            }
+    
                 this.setState({
                 list: {
                     list: value
