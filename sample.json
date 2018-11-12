@@ -2,94 +2,2407 @@
   "studentslist": [
     {
       "id": 1,
-      "rollno": "15PA1A05D0",
-      "name": "P S N V N SURAJ",
-      "mail": "15pa1a05d0@vishnu.edu.in",
-      "Branch": "CSE"
+      "mail": "17pa1a0214@vishnu.edu.in",
+      "name": "B.HITESH",
+      "rollno": "17pa1a0214",
+      "phonenumber": 9100477569,
+      "Branch": "EEE"
     },
     {
       "id": 2,
-      "rollno": "15PA1A05e0",
-      "name": "P L Sai kishan",
-      "mail": "15pa1a05e0@vishnu.edu.in",
-      "Branch": "CSE"
+      "mail": "17pa1a0239@vishnu.edu.in",
+      "name": "Sreeram",
+      "rollno": "17pa1a0239",
+      "phonenumber": 7893011293,
+      "Branch": "EEE"
     },
     {
       "id": 3,
-      "rollno": "15PA1A05f0",
-      "name": "S Krishna",
-      "mail": "15pa1a05f0@vishnu.edu.in",
-      "Branch": "CSE"
+      "mail": "17pa1a0252@vishnu.edu.in",
+      "name": "Kurmasala sai Kishore",
+      "rollno": "17pa1a0252",
+      "phonenumber": 8328347951,
+      "Branch": "EEE"
     },
     {
       "id": 4,
-      "rollno": "15PA1A05c0",
-      "name": "P Sai Kiran",
-      "mail": "15pa1a05c0@vishnu.edu.in",
-      "Branch": "CSE"
+      "mail": "17pa1a0259@vishnu.edu.in",
+      "name": "M.Sumanth",
+      "rollno": "17pa1a0259",
+      "phonenumber": 7660990421,
+      "Branch": "EEE"
     },
     {
       "id": 5,
-      "rollno": "15PA1A05g0",
-      "name": "T Sri Ram Prasad",
-      "mail": "15pa1a05g0@vishnu.edu.in",
+      "mail": "17pa1a0260@vishnu.edu.in",
+      "name": "M.Dheeraj",
+      "rollno": "17pa1a0260",
+      "phonenumber": 9100143077,
+      "Branch": "EEE"
+    },
+    {
+      "id": 6,
+      "mail": "17pa1a0261@vishnu.edu.in",
+      "name": "Mudunuri Meher Krishna Varma",
+      "rollno": "17pa1a0261",
+      "phonenumber": 6309714899,
+      "Branch": "EEE"
+    },
+    {
+      "id": 7,
+      "mail": "17pa1a0267@vishnu.edu.in",
+      "name": "NULU JAGADEESH GUPTA",
+      "rollno": "17pa1a0267",
+      "phonenumber": 9494459258,
+      "Branch": "EEE"
+    },
+    {
+      "id": 8,
+      "mail": "17pa1a0268@vishnu.edu.in",
+      "name": "Sowjanya",
+      "rollno": "17pa1a0268",
+      "phonenumber": 7658905246,
+      "Branch": "EEE"
+    },
+    {
+      "id": 9,
+      "mail": "17pa1a0269@vishnu.edu.in",
+      "name": "Surya Bhagavan Pantham",
+      "rollno": "17pa1a0269",
+      "phonenumber": 9553515244,
+      "Branch": "EEE"
+    },
+    {
+      "id": 10,
+      "mail": "17pa1a0270@vishnu.edu.in",
+      "name": "P sudheer",
+      "rollno": "17pa1a0270",
+      "phonenumber": 8978404557,
+      "Branch": "EEE"
+    },
+    {
+      "id": 11,
+      "mail": "17pa1a0271@vishnu.edu.in",
+      "name": "P.Yezra",
+      "rollno": "17pa1a0271",
+      "phonenumber": 9182417383,
+      "Branch": "EEE"
+    },
+    {
+      "id": 12,
+      "mail": "17pa1a0273@vishnu.edu.in",
+      "name": "P. Satya Chaitanya Gayathri",
+      "rollno": "17pa1a0273",
+      "phonenumber": 8247853839,
+      "Branch": "EEE"
+    },
+    {
+      "id": 13,
+      "mail": "17pa1a0275@vishnu.edu.in",
+      "name": "P N S SAI RAJESH",
+      "rollno": "17pa1a0275",
+      "phonenumber": 8328641262,
+      "Branch": "EEE"
+    },
+    {
+      "id": 14,
+      "mail": "17pa1a0277@vishnu.edu.in",
+      "name": "P.sai venkata krishna",
+      "rollno": "17pa1a0277",
+      "phonenumber": 9515621592,
+      "Branch": "EEE"
+    },
+    {
+      "id": 15,
+      "mail": "17pa1a0278@vishnu.edu.in",
+      "name": "Purigalla sravani",
+      "rollno": "17pa1a0278",
+      "phonenumber": 9121949585,
+      "Branch": "EEE"
+    },
+    {
+      "id": 16,
+      "mail": "17pa1a0281@vishnu.edu.in",
+      "name": "Yaswanth",
+      "rollno": "17pa1a0281",
+      "phonenumber": 7032008896,
+      "Branch": "EEE"
+    },
+    {
+      "id": 17,
+      "mail": "17pa1a0284@vishnu.edu.in",
+      "name": "koteswararao",
+      "rollno": "17pa1a0284",
+      "phonenumber": 9985568597,
+      "Branch": "EEE"
+    },
+    {
+      "id": 18,
+      "mail": "17pa1a0286@vishnu.edu.in",
+      "name": "Sanku sree phani kumar",
+      "rollno": "17pa1a0286",
+      "phonenumber": 8919640144,
+      "Branch": "EEE"
+    },
+    {
+      "id": 19,
+      "mail": "17pa1a0288@vishnu.edu.in",
+      "name": "S V S Charan",
+      "rollno": "17pa1a0288",
+      "phonenumber": 9505075338,
+      "Branch": "EEE"
+    },
+    {
+      "id": 20,
+      "mail": "17pa1a0291@vishnu.edu.in",
+      "name": "Sunkara Chandu Kumar",
+      "rollno": "17pa1a0291",
+      "phonenumber": 9505562170,
+      "Branch": "EEE"
+    },
+    {
+      "id": 21,
+      "mail": "17pa1a0292@vishnu.edu.in",
+      "name": "supriya rani medidi",
+      "rollno": "17pa1a0292",
+      "phonenumber": 9110532771,
+      "Branch": "EEE"
+    },
+    {
+      "id": 22,
+      "mail": "17pa1a0294@vishnu.edu.in",
+      "name": "Syed Kareem siraz",
+      "rollno": "17pa1a0294",
+      "phonenumber": 7993366209,
+      "Branch": "EEE"
+    },
+    {
+      "id": 23,
+      "mail": "17pa1a0298@vishnu.edu.in",
+      "name": "Pushpalatha",
+      "rollno": "17pa1a0298",
+      "phonenumber": 6281539585,
+      "Branch": "EEE"
+    },
+    {
+      "id": 24,
+      "mail": "17pa1a02a4@vishnu.edu.in",
+      "name": "V Hemanth",
+      "rollno": "17pa1a02a4",
+      "phonenumber": 8978461788,
+      "Branch": "EEE"
+    },
+    {
+      "id": 25,
+      "mail": "17pa1a02a6@vishnu.edu.in",
+      "name": "V.Mallesh",
+      "rollno": "17pa1a02a6",
+      "phonenumber": 9701448218,
+      "Branch": "EEE"
+    },
+    {
+      "id": 26,
+      "mail": "17pa1a02a7@vishnu.edu.in",
+      "name": "V P N V VENKATA SATYA CHAITHANYA",
+      "rollno": "17pa1a02a7",
+      "phonenumber": 9505752699,
+      "Branch": "EEE"
+    },
+    {
+      "id": 27,
+      "mail": "17pa1a02b0@vishnu.edu.in",
+      "name": "VYTLA SRI VARSHA",
+      "rollno": "17pa1a02b0",
+      "phonenumber": 6281199355,
+      "Branch": "EEE"
+    },
+    {
+      "id": 28,
+      "mail": "17pa1a02b2@vishnu.edu.in",
+      "name": "Y j s manimala",
+      "rollno": "17pa1a02b2",
+      "phonenumber": 8978404557,
+      "Branch": "EEE"
+    },
+    {
+      "id": 29,
+      "mail": "17pa1a02b3@vishnu.edu.in",
+      "name": "Lakshmana Rao",
+      "rollno": "17pa1a02b3",
+      "phonenumber": 9052835432,
+      "Branch": "EEE"
+    },
+    {
+      "id": 30,
+      "mail": "17pa1a0301@vishnu.edu.in",
+      "name": "A.yesu ratnam",
+      "rollno": "17pa1a0301",
+      "phonenumber": 9182719604,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 31,
+      "mail": "17pa1a0308@vishnu.edu.in",
+      "name": "B.B.H.KUMAR",
+      "rollno": "17pa1a0308",
+      "phonenumber": 9182766053,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 32,
+      "mail": "17pa1a0311@vishnu.edu.in",
+      "name": "Bongu.sai teja",
+      "rollno": "17pa1a0311",
+      "phonenumber": 8186893789,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 33,
+      "mail": "17pa1a0318@vishnu.edu.in",
+      "name": "Tarun kumar",
+      "rollno": "17pa1a0318",
+      "phonenumber": 8978847889,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 34,
+      "mail": "17pa1a0321@vishnu.edu.in",
+      "name": "RohitGanesh",
+      "rollno": "17pa1a0321",
+      "phonenumber": 9100800555,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 35,
+      "mail": "17pa1a0330@vishnu.edu.in",
+      "name": "Gubbala Trinadh Sankeerth",
+      "rollno": "17pa1a0330",
+      "phonenumber": 8919256287,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 36,
+      "mail": "17pa1a0331@vishnu.edu.in",
+      "name": "GUBBALA VIVEK",
+      "rollno": "17pa1a0331",
+      "phonenumber": 8639830550,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 37,
+      "mail": "17pa1a0338@vishnu.edu.in",
+      "name": "J.Vijay Kumar Raju",
+      "rollno": "17pa1a0338",
+      "phonenumber": 7330860682,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 38,
+      "mail": "17pa1a0343@vishnu.edu.in",
+      "name": "K darshith kumar",
+      "rollno": "17pa1a0343",
+      "phonenumber": 9515410587,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 39,
+      "mail": "17pa1a0346@vishnu.edu.in",
+      "name": "Kanchumarthi Rithwik",
+      "rollno": "17pa1a0346",
+      "phonenumber": 9866301623,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 40,
+      "mail": "17pa1a0351@vishnu.edu.in",
+      "name": "Venkatesh",
+      "rollno": "17pa1a0351",
+      "phonenumber": 9666880234,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 41,
+      "mail": "17pa1a0362@vishnu.edu.in",
+      "name": "LANKA SATYAPRASAD",
+      "rollno": "17pa1a0362",
+      "phonenumber": 9985785285,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 42,
+      "mail": "17pa1a0365@vishnu.edu.in",
+      "name": "Malakala.Sai Venkatesh",
+      "rollno": "17pa1a0365",
+      "phonenumber": 8074598758,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 43,
+      "mail": "17pa1a0370@vishnu.edu.in",
+      "name": "M.Venkata Ramana",
+      "rollno": "17pa1a0370",
+      "phonenumber": 7993738512,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 44,
+      "mail": "17pa1a0371@vishnu.edu.in",
+      "name": "Medapati. Prasanna kumar reddy",
+      "rollno": "17pa1a0371",
+      "phonenumber": 8919331107,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 45,
+      "mail": "17pa1a0379@vishnu.edu.in",
+      "name": "Mygapula. Sai Praveen",
+      "rollno": "17pa1a0379",
+      "phonenumber": 8106271726,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 46,
+      "mail": "17pa1a0387@vishnu.edu.in",
+      "name": "Peddinti suryateja",
+      "rollno": "17pa1a0387",
+      "phonenumber": 9290295807,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 47,
+      "mail": "17pa1a0388@vishnu.edu.in",
+      "name": "Penumalla Venkatesh",
+      "rollno": "17pa1a0388",
+      "phonenumber": 9154503944,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 48,
+      "mail": "17pa1a0390@vishnu.edu.in",
+      "name": "Perumalla sai praveen",
+      "rollno": "17pa1a0390",
+      "phonenumber": 8247703190,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 49,
+      "mail": "17pa1a0366@vishnu.edu.in",
+      "name": "Narendra",
+      "rollno": "17pa1a0396",
+      "phonenumber": 9052233469,
       "Branch": "CSE"
+    },
+    {
+      "id": 50,
+      "mail": "17pa1a0396@vishnu.edu.in",
+      "name": "Narendra Ponna",
+      "rollno": "17pa1a0396",
+      "phonenumber": 9052233469,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 51,
+      "mail": "17pa1a03a1@vishnu.edu.in",
+      "name": "Ravuri yazneswara ram charan",
+      "rollno": "17pa1a03a1",
+      "phonenumber": 8309769022,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 52,
+      "mail": "17pa1a0402@vishnu.edu.in",
+      "name": "A .Mahesh Babu",
+      "rollno": "17pa1a0402",
+      "phonenumber": 6303004570,
+      "Branch": "ECE"
+    },
+    {
+      "id": 53,
+      "mail": "17pa1a0403@vishnu.edu.in",
+      "name": "ADDA TEJA",
+      "rollno": "17pa1a0403",
+      "phonenumber": 9949490890,
+      "Branch": "ECE"
+    },
+    {
+      "id": 54,
+      "mail": "17pa1a0405@vishnu.edu.in",
+      "name": "Ampa revathi",
+      "rollno": "17pa1a0404",
+      "phonenumber": 9912855597,
+      "Branch": "ECE"
+    },
+    {
+      "id": 55,
+      "mail": "17pa1a0407@vishnu.edu.in",
+      "name": "ANNAMNEEDI VENKATA SRINIVAS",
+      "rollno": "17pa1a0407",
+      "phonenumber": 7285994142,
+      "Branch": "ECE"
+    },
+    {
+      "id": 56,
+      "mail": "17pa1a0408@vishnu.edu.in",
+      "name": "BACHU ESWAR",
+      "rollno": "17pa1a0408",
+      "phonenumber": 7286036460,
+      "Branch": "ECE"
+    },
+    {
+      "id": 57,
+      "mail": "17pa1a0409@vishnu.edu.in",
+      "name": "Udaya sriteja balagam",
+      "rollno": "17pa1a0409",
+      "phonenumber": 8367500812,
+      "Branch": "ECE"
+    },
+    {
+      "id": 58,
+      "mail": "17pa1a0411@vishnu.edu.in",
+      "name": "Bandarupalli sri venkata sai gopi anand",
+      "rollno": "17pa1a0411",
+      "phonenumber": 9490060980,
+      "Branch": "ECE"
+    },
+    {
+      "id": 59,
+      "mail": "17pa1a0413@vishnu.edu.in",
+      "name": "Pavan varma",
+      "rollno": "17pa1a0413",
+      "phonenumber": 8500011762,
+      "Branch": "ECE"
+    },
+    {
+      "id": 60,
+      "mail": "17pa1a0416@vishnu.edu.in",
+      "name": "Bonam kiran Teja",
+      "rollno": "17pa1a0416",
+      "phonenumber": 8919635214,
+      "Branch": "ECE"
+    },
+    {
+      "id": 61,
+      "mail": "17pa1a0417@vishnu.edu.in",
+      "name": "chadalavada.sireesha",
+      "rollno": "17pa1a0417",
+      "phonenumber": 9553309330,
+      "Branch": "ECE"
+    },
+    {
+      "id": 62,
+      "mail": "17pa1a0418@vishnu.edu.in",
+      "name": "Neha Chakka",
+      "rollno": "17pa1a0418",
+      "phonenumber": 8985361200,
+      "Branch": "ECE"
+    },
+    {
+      "id": 63,
+      "mail": "17pa1a0419@vishnu.edu.in",
+      "name": "Sateesh",
+      "rollno": "17pa1a0419",
+      "phonenumber": 8500704904,
+      "Branch": "ECE"
+    },
+    {
+      "id": 64,
+      "mail": "17pa1a0420@vishnu.edu.in",
+      "name": "Sai Pavan Chollangi",
+      "rollno": "17pa1a0420",
+      "phonenumber": 9959697399,
+      "Branch": "ECE"
+    },
+    {
+      "id": 65,
+      "mail": "17pa1a0421@vishnu.edu.in",
+      "name": "DAMMULURI YOGENDRA SAI TEJA",
+      "rollno": "17pa1a0421",
+      "phonenumber": 8790514555,
+      "Branch": "ECE"
+    },
+    {
+      "id": 66,
+      "mail": "17pa1a0422@vishnu.edu.in",
+      "name": "D.jay chand",
+      "rollno": "17pa1a0422",
+      "phonenumber": 9398204234,
+      "Branch": "ECE"
+    },
+    {
+      "id": 67,
+      "mail": "17pa1a0423@vishnu.edu.in",
+      "name": "D sandeep",
+      "rollno": "17pa1a0423",
+      "phonenumber": 9110793933,
+      "Branch": "ECE"
+    },
+    {
+      "id": 68,
+      "mail": "17pa1a0424@vishnu.edu.in",
+      "name": "Karthik Dommeti",
+      "rollno": "17pa1a0424",
+      "phonenumber": 8185028251,
+      "Branch": "ECE"
+    },
+    {
+      "id": 69,
+      "mail": "17pa1a0426@vishnu.edu.in",
+      "name": "Gadamsettti. Venkata Ram Sai Praveen",
+      "rollno": "17pa1a0426",
+      "phonenumber": 8184959055,
+      "Branch": "ECE"
+    },
+    {
+      "id": 70,
+      "mail": "17pa1a0427@vishnu.edu.in",
+      "name": "Gaddam Sai Bhavana",
+      "rollno": "17pa1a0427",
+      "phonenumber": 7997416225,
+      "Branch": "ECE"
+    },
+    {
+      "id": 71,
+      "mail": "17pa1a0428@vishnu.edu.in",
+      "name": "G Bhargav",
+      "rollno": "17pa1a0428",
+      "phonenumber": 9505117658,
+      "Branch": "ECE"
+    },
+    {
+      "id": 72,
+      "mail": "17pa1a0430@vishnu.edu.in",
+      "name": "G.L.V.V.Sairamkumar",
+      "rollno": "17pa1a0430",
+      "phonenumber": 8297166761,
+      "Branch": "ECE"
+    },
+    {
+      "id": 73,
+      "mail": "17pa1a0431@vishnu.edu.in",
+      "name": "Ramakrishna Goda",
+      "rollno": "17pa1a0431",
+      "phonenumber": 9912042034,
+      "Branch": "ECE"
+    },
+    {
+      "id": 74,
+      "mail": "17pa1a0433@vishnu.edu.in",
+      "name": "Saiteja Grandhi",
+      "rollno": "17pa1a0433",
+      "phonenumber": 7330859846,
+      "Branch": "ECE"
+    },
+    {
+      "id": 75,
+      "mail": "17pa1a0434@vishnu.edu.in",
+      "name": "Venkatesh Grandhi",
+      "rollno": "17pa1a0434",
+      "phonenumber": 6303211484,
+      "Branch": "ECE"
+    },
+    {
+      "id": 76,
+      "mail": "17pa1a0436@vishnu.edu.in",
+      "name": "Gudapati pavan sumanth",
+      "rollno": "17pa1a0436",
+      "phonenumber": 9182695724,
+      "Branch": "ECE"
+    },
+    {
+      "id": 77,
+      "mail": "17pa1a0438@vishnu.edu.in",
+      "name": "G JAYANTH",
+      "rollno": "17pa1a0438",
+      "phonenumber": 9542254209,
+      "Branch": "ECE"
+    },
+    {
+      "id": 78,
+      "mail": "17pa1a0439@vishnu.edu.in",
+      "name": "Indukuri Sai Viswanath Varma",
+      "rollno": "17pa1a0439",
+      "phonenumber": 9908604959,
+      "Branch": "ECE"
+    },
+    {
+      "id": 79,
+      "mail": "17pa1a0440@vishnu.edu.in",
+      "name": "Indukuri Siva Sai Vijay Rama Raju",
+      "rollno": "17pa1a0440",
+      "phonenumber": 8897628834,
+      "Branch": "ECE"
+    },
+    {
+      "id": 80,
+      "mail": "17pa1a0442@vishnu.edu.in",
+      "name": "Isukapati Chakravarthy",
+      "rollno": "17pa1a0442",
+      "phonenumber": 7013476679,
+      "Branch": "ECE"
+    },
+    {
+      "id": 81,
+      "mail": "17pa1a0443@vishnu.edu.in",
+      "name": "Jagarlamudi mohana Naresh",
+      "rollno": "17pa1a0443",
+      "phonenumber": 7730980171,
+      "Branch": "ECE"
+    },
+    {
+      "id": 82,
+      "mail": "17pa1a0445@vishnu.edu.in",
+      "name": "JAMPANA.SAI DEEPIKA",
+      "rollno": "17pa1a0445",
+      "phonenumber": 7036720702,
+      "Branch": "ECE"
+    },
+    {
+      "id": 83,
+      "mail": "17pa1a0446@vishnu.edu.in",
+      "name": "Jeji Srinivasa Vinnakota",
+      "rollno": "17pa1a0446",
+      "phonenumber": 8639836851,
+      "Branch": "ECE"
+    },
+    {
+      "id": 84,
+      "mail": "17pa1a0447@vishnu.edu.in",
+      "name": "sai sandeep",
+      "rollno": "17pa1a0447",
+      "phonenumber": 9491713945,
+      "Branch": "ECE"
+    },
+    {
+      "id": 85,
+      "mail": "17pa1a0448@vishnu.edu.in",
+      "name": "Surya",
+      "rollno": "17pa1a0448",
+      "phonenumber": 9642828242,
+      "Branch": "ECE"
+    },
+    {
+      "id": 86,
+      "mail": "17pa1a0449@vishnu.edu.in",
+      "name": "Jeevankumar",
+      "rollno": "17pa1a0449",
+      "phonenumber": 7993066257,
+      "Branch": "ECE"
+    },
+    {
+      "id": 87,
+      "mail": "15pa1a04c7@vishnu.edu.in",
+      "name": "Kalidindi.Pooja Sahithi",
+      "rollno": "17pa1a0451",
+      "phonenumber": 9182525296,
+      "Branch": "ECE"
+    },
+    {
+      "id": 88,
+      "mail": "17pa1a0454@vishnu.edu.in",
+      "name": "K.Som Sekhar",
+      "rollno": "17pa1a0454",
+      "phonenumber": 7036150399,
+      "Branch": "ECE"
+    },
+    {
+      "id": 89,
+      "mail": "17pa1a0455@vishnu.edu.in",
+      "name": "Navya supriya",
+      "rollno": "17pa1a0455",
+      "phonenumber": 8106293465,
+      "Branch": "ECE"
+    },
+    {
+      "id": 90,
+      "mail": "17pa1a0456@vishnu.edu.in",
+      "name": "Dinesh",
+      "rollno": "17pa1a0456",
+      "phonenumber": 7306886142,
+      "Branch": "ECE"
+    },
+    {
+      "id": 91,
+      "mail": "17pa1a0457@vishnu.edu.in",
+      "name": "Janardhana Gupta",
+      "rollno": "17pa1a0457",
+      "phonenumber": 7337311551,
+      "Branch": "ECE"
+    },
+    {
+      "id": 92,
+      "mail": "17pa1a0459@vishnu.edu.in",
+      "name": "karuturi.sai jahnavi",
+      "rollno": "17pa1a0459",
+      "phonenumber": 7993707559,
+      "Branch": "ECE"
+    },
+    {
+      "id": 93,
+      "mail": "17pa1a0464@vishnu.edu.in",
+      "name": "Sivakumar",
+      "rollno": "17pa1a0461",
+      "phonenumber": 8309566128,
+      "Branch": "ECE"
+    },
+    {
+      "id": 94,
+      "mail": "17pa1a0462@vishnu.edu.in",
+      "name": "KOKKIRALA DINESH VENKATA SAI",
+      "rollno": "17pa1a0462",
+      "phonenumber": 9182223776,
+      "Branch": "ECE"
+    },
+    {
+      "id": 95,
+      "mail": "17pa1a0466@vishnu.edu.in",
+      "name": "Madhan",
+      "rollno": "17pa1a0466",
+      "phonenumber": 9398579334,
+      "Branch": "ECE"
+    },
+    {
+      "id": 96,
+      "mail": "17pa1a0467@vishnu.edu.in",
+      "name": "Konagalla Taruni sesha sai",
+      "rollno": "17pa1a0467",
+      "phonenumber": 8309806545,
+      "Branch": "ECE"
+    },
+    {
+      "id": 97,
+      "mail": "17pa1a0468@vishnu.edu.in",
+      "name": "Konapala Bala Siva Prasad",
+      "rollno": "17pa1a0468",
+      "phonenumber": 7993151275,
+      "Branch": "ECE"
+    },
+    {
+      "id": 98,
+      "mail": "17pa1a0471@vishnu.edu.in",
+      "name": "Koppula Jyothi Satya Lakshmi Sai Ajay",
+      "rollno": "17pa1a0471",
+      "phonenumber": 9666459373,
+      "Branch": "ECE"
+    },
+    {
+      "id": 99,
+      "mail": "17pa1a0472@vishnu.edu.in",
+      "name": "KORIVI SONU",
+      "rollno": "17pa1a0472",
+      "phonenumber": 8464074606,
+      "Branch": "ECE"
+    },
+    {
+      "id": 100,
+      "mail": "17pa1a0473@vishnu.edu.in",
+      "name": "Kota Avinash",
+      "rollno": "17pa1a0473",
+      "phonenumber": 9398890766,
+      "Branch": "ECE"
+    },
+    {
+      "id": 101,
+      "mail": "17pa1a0475@vishnu.edu.in",
+      "name": "k.phaneendra",
+      "rollno": "17pa1a0475",
+      "phonenumber": 8179972692,
+      "Branch": "ECE"
+    },
+    {
+      "id": 102,
+      "mail": "17pa1a0478@vishnu.edu.in",
+      "name": "Lathasri.lalam",
+      "rollno": "17pa1a0478",
+      "phonenumber": 8331836789,
+      "Branch": "ECE"
+    },
+    {
+      "id": 103,
+      "mail": "17pa1a0480@vishnu.edu.in",
+      "name": "L N V S Sai Durga",
+      "rollno": "17pa1a0480",
+      "phonenumber": 9441034733,
+      "Branch": "ECE"
+    },
+    {
+      "id": 104,
+      "mail": "17pa1a0481@vishnu.edu.in",
+      "name": "Lankalapilli Sowmya",
+      "rollno": "17pa1a0481",
+      "phonenumber": 9676773353,
+      "Branch": "ECE"
+    },
+    {
+      "id": 105,
+      "mail": "17pa1a0484@vishnu.edu.in",
+      "name": "M.Pavani N S S M K Priyanka",
+      "rollno": "17pa1a0484",
+      "phonenumber": 9912557324,
+      "Branch": "ECE"
+    },
+    {
+      "id": 106,
+      "mail": "17pa1a0485@vishnu.edu.in",
+      "name": "Jahnavi",
+      "rollno": "17pa1a0485",
+      "phonenumber": 7780190002,
+      "Branch": "ECE"
+    },
+    {
+      "id": 107,
+      "mail": "17pa1a0486@vishnu.edu.in",
+      "name": "Mallikarjuna Malepti",
+      "rollno": "17pa1a0486",
+      "phonenumber": 9182793049,
+      "Branch": "ECE"
+    },
+    {
+      "id": 108,
+      "mail": "17pa1a0487@vishnu.edu.in",
+      "name": "Narayana Rao",
+      "rollno": "17pa1a0487",
+      "phonenumber": 9182828687,
+      "Branch": "ECE"
+    },
+    {
+      "id": 109,
+      "mail": "17pa1a0488@vishnu.edu.in",
+      "name": "Saisri Manda",
+      "rollno": "17pa1a0488",
+      "phonenumber": 8374413807,
+      "Branch": "ECE"
+    },
+    {
+      "id": 110,
+      "mail": "17pa1a0490@vishnu.edu.in",
+      "name": "Yavanika Manadavilli",
+      "rollno": "17pa1a0490",
+      "phonenumber": 9182106989,
+      "Branch": "ECE"
+    },
+    {
+      "id": 111,
+      "mail": "17pa1a0494@vishnu.edu.in",
+      "name": "Mohan Venkat sai",
+      "rollno": "17pa1a0494",
+      "phonenumber": 9951107781,
+      "Branch": "ECE"
+    },
+    {
+      "id": 112,
+      "mail": "17pa1a0496@vishnu.edu.in",
+      "name": "SRI HARSHA",
+      "rollno": "17pa1a0496",
+      "phonenumber": 9121088496,
+      "Branch": "ECE"
+    },
+    {
+      "id": 113,
+      "mail": "17pa1a0497@vishnu.edu.in",
+      "name": "Vihari.M",
+      "rollno": "17pa1a0497",
+      "phonenumber": 9010442636,
+      "Branch": "ECE"
+    },
+    {
+      "id": 114,
+      "mail": "17pa1a0499@vishnu.edu.in",
+      "name": "Purna.mopidevi",
+      "rollno": "17pa1a0499",
+      "phonenumber": 9948186631,
+      "Branch": "ECE"
+    },
+    {
+      "id": 115,
+      "mail": "17pa1a04a0@vishnu.edu.in",
+      "name": "Nani",
+      "rollno": "17pa1a04a0",
+      "phonenumber": 7036974369,
+      "Branch": "ECE"
+    },
+    {
+      "id": 116,
+      "mail": "17pa1a04a1@vishnu.edu.in",
+      "name": "Mudunuri Aakash Varma",
+      "rollno": "17pa1a04a1",
+      "phonenumber": 7995330134,
+      "Branch": "ECE"
+    },
+    {
+      "id": 117,
+      "mail": "17pa1a04a5@vishnu.edu.in",
+      "name": "Mullapudi Sai Prapoorna",
+      "rollno": "17pa1a04a5",
+      "phonenumber": 8885348662,
+      "Branch": "ECE"
+    },
+    {
+      "id": 118,
+      "mail": "17pa1a04a6@vishnu.edu.in",
+      "name": "Muppa Bhavana",
+      "rollno": "17pa1a04a6",
+      "phonenumber": 9573225377,
+      "Branch": "ECE"
+    },
+    {
+      "id": 119,
+      "mail": "17pa1a04a7@vishnu.edu.in",
+      "name": "T V Kishore Babu",
+      "rollno": "17pa1a04a7",
+      "phonenumber": 9052588135,
+      "Branch": "ECE"
+    },
+    {
+      "id": 120,
+      "mail": "17pa1a04b0@vishnu.edu.in",
+      "name": "MANIKANTA. N",
+      "rollno": "17pa1a04b0",
+      "phonenumber": 8465084317,
+      "Branch": "ECE"
+    },
+    {
+      "id": 121,
+      "mail": "17pa1a04b1@vishnu.edu.in",
+      "name": "Aakash",
+      "rollno": "17pa1a04b1",
+      "phonenumber": 9398399604,
+      "Branch": "ECE"
+    },
+    {
+      "id": 122,
+      "mail": "17pa1a04b2@vishnu.edu.in",
+      "name": "NARRA MANOHAR",
+      "rollno": "17pa1a04b2",
+      "phonenumber": 7287914739,
+      "Branch": "ECE"
+    },
+    {
+      "id": 123,
+      "mail": "17pa1a04b3@vishnu.edu.in",
+      "name": "NAVEEN KUMAR TUMMIDI",
+      "rollno": "17pa1a04b3",
+      "phonenumber": 9441280379,
+      "Branch": "ECE"
+    },
+    {
+      "id": 124,
+      "mail": "17pa1a04b5@vishnu.edu.in",
+      "name": "Yamini.N",
+      "rollno": "17pa1a04b5",
+      "phonenumber": 9553963437,
+      "Branch": "ECE"
+    },
+    {
+      "id": 125,
+      "mail": "17pa1a04b6@vishnu.edu.in",
+      "name": "Saikumar",
+      "rollno": "17pa1a04b6",
+      "phonenumber": 9182820403,
+      "Branch": "ECE"
+    },
+    {
+      "id": 126,
+      "mail": "17pa1a04b7@vishnu.edu.in",
+      "name": "N Leela Sai balaji",
+      "rollno": "17pa1a04b7",
+      "phonenumber": 7337271478,
+      "Branch": "ECE"
+    },
+    {
+      "id": 127,
+      "mail": "17pa1a04b8@vishnu.edu.in",
+      "name": "Sri padma paanidhar",
+      "rollno": "17pa1a04b8",
+      "phonenumber": 9398933673,
+      "Branch": "ECE"
+    },
+    {
+      "id": 128,
+      "mail": "17pa1a04b9@vishnu.edu.in",
+      "name": "Palleti Krupa Sravanthi",
+      "rollno": "17pa1a04b9",
+      "phonenumber": 7093209337,
+      "Branch": "ECE"
+    },
+    {
+      "id": 129,
+      "mail": "17pa1a04c0@vishnu.edu.in",
+      "name": "Panja Neela Megha Shyam",
+      "rollno": "17pa1a04c0",
+      "phonenumber": 9989179269,
+      "Branch": "ECE"
+    },
+    {
+      "id": 130,
+      "mail": "17pa1a04c4@vishnu.edu.in",
+      "name": "HARSHA VARDHAN",
+      "rollno": "17pa1a04c4",
+      "phonenumber": 9912147223,
+      "Branch": "ECE"
+    },
+    {
+      "id": 131,
+      "mail": "17pa1a04d0@vishnu.edu.in",
+      "name": "Someswara Sai Kumar Piridi",
+      "rollno": "17pa1a04d0",
+      "phonenumber": 8309570508,
+      "Branch": "ECE"
+    },
+    {
+      "id": 132,
+      "mail": "17pa1a04d1@vishnu.edu.in",
+      "name": "Vamsi poduri",
+      "rollno": "17pa1a04d1",
+      "phonenumber": 7981900406,
+      "Branch": "ECE"
+    },
+    {
+      "id": 133,
+      "mail": "17pa1a04d2@vishnu.edu.in",
+      "name": "P.S.S.Chandrahasa",
+      "rollno": "17pa1a04d2",
+      "phonenumber": 9640527827,
+      "Branch": "ECE"
+    },
+    {
+      "id": 134,
+      "mail": "17pa1a04d3@vishnu.edu.in",
+      "name": "P.praneeth goud",
+      "rollno": "17pa1a04d3",
+      "phonenumber": 7660901495,
+      "Branch": "ECE"
+    },
+    {
+      "id": 135,
+      "mail": "17pa1a04d4@vishnu.edu.in",
+      "name": "Pulaparthi.Sai Sri",
+      "rollno": "17pa1a04d4",
+      "phonenumber": 9908693030,
+      "Branch": "ECE"
+    },
+    {
+      "id": 136,
+      "mail": "17pa1a04d6@vishnu.edu.in",
+      "name": "Rvssmanibabu ungarala",
+      "rollno": "17pa1a04d6",
+      "phonenumber": 9948008383,
+      "Branch": "ECE"
+    },
+    {
+      "id": 137,
+      "mail": "17pa1a04d9@vishnu.edu.in",
+      "name": "Rudraraju Hemanthi Malavika",
+      "rollno": "17pa1a04d9",
+      "phonenumber": 9059175931,
+      "Branch": "ECE"
+    },
+    {
+      "id": 138,
+      "mail": "17pa1a04e0@vishnu.edu.in",
+      "name": "Sagi sai gopala raju",
+      "rollno": "17pa1a04e0",
+      "phonenumber": 7780658826,
+      "Branch": "ECE"
+    },
+    {
+      "id": 139,
+      "mail": "17pa1a04e1@vishnu.edu.in",
+      "name": "Sai madhuri kappaganthula",
+      "rollno": "17pa1a04e1",
+      "phonenumber": 7032241878,
+      "Branch": "ECE"
+    },
+    {
+      "id": 140,
+      "mail": "17pa1a04e4@vishnu.edu.in",
+      "name": "Sk Afroz Fathima",
+      "rollno": "17pa1a04e4",
+      "phonenumber": 9492332763,
+      "Branch": "ECE"
+    },
+    {
+      "id": 141,
+      "mail": "17pa1a04e5@vishnu.edu.in",
+      "name": "Shaik asha",
+      "rollno": "17pa1a04e5",
+      "phonenumber": 7702693764,
+      "Branch": "ECE"
+    },
+    {
+      "id": 142,
+      "mail": "17pa1a04e6@vishnu.edu.in",
+      "name": "Shaik Naseema",
+      "rollno": "17pa1a04e6",
+      "phonenumber": 9912074887,
+      "Branch": "ECE"
+    },
+    {
+      "id": 143,
+      "mail": "17pa1a04e9@vishnu.edu.in",
+      "name": "Sheik . Rafi yerusha",
+      "rollno": "17pa1a04e9",
+      "phonenumber": 7207489137,
+      "Branch": "ECE"
+    },
+    {
+      "id": 144,
+      "mail": "17pa1a04f2@vishnu.edu.in",
+      "name": "sunkavilli suranya",
+      "rollno": "17pa1a04f2",
+      "phonenumber": 8639926981,
+      "Branch": "ECE"
+    },
+    {
+      "id": 145,
+      "mail": "17pa1a04f4@vishnu.edu.in",
+      "name": "T Naga vamsi santhosh",
+      "rollno": "17pa1a04f4",
+      "phonenumber": 9182031171,
+      "Branch": "ECE"
+    },
+    {
+      "id": 146,
+      "mail": "17pa1a04g1@vishnu.edu.in",
+      "name": "ravi kiran",
+      "rollno": "17pa1a04g1",
+      "phonenumber": 7386456455,
+      "Branch": "ECE"
+    },
+    {
+      "id": 147,
+      "mail": "17pa1a04g2@vishnu.edu.in",
+      "name": "U.satya jaideep",
+      "rollno": "17pa1a04g2",
+      "phonenumber": 7995506676,
+      "Branch": "ECE"
+    },
+    {
+      "id": 148,
+      "mail": "17pa1a04g3@vishnu.edu.in",
+      "name": "Vaddi Rohith",
+      "rollno": "17pa1a04g3",
+      "phonenumber": 8499836344,
+      "Branch": "ECE"
+    },
+    {
+      "id": 149,
+      "mail": "17pa1a04g6@vishnu.edu.in",
+      "name": "Varun sai",
+      "rollno": "17pa1a04g6",
+      "phonenumber": 8247554456,
+      "Branch": "ECE"
+    },
+    {
+      "id": 150,
+      "mail": "17pa1a04h1@vishnu.edu.in",
+      "name": "ASISH VEERNI",
+      "rollno": "17pa1a04h1",
+      "phonenumber": 8463986860,
+      "Branch": "ECE"
+    },
+    {
+      "id": 151,
+      "mail": "17pa1a04h2@vishnu.edu.in",
+      "name": "V bhanu adinarayana",
+      "rollno": "17pa1a04h2",
+      "phonenumber": 8247594287,
+      "Branch": "ECE"
+    },
+    {
+      "id": 152,
+      "mail": "17pa1a04h4@vishnu.edu.in",
+      "name": "17pa1a04h4@vishnu.edu.in",
+      "rollno": "17pa1a04h4",
+      "phonenumber": 9505598299,
+      "Branch": "ECE"
+    },
+    {
+      "id": 153,
+      "mail": "17pa1a04h6@vishnu.edu.in",
+      "name": "Yalamanchili Phani Sai Manojahar",
+      "rollno": "17pa1a04h6",
+      "phonenumber": 6281941816,
+      "Branch": "ECE"
+    },
+    {
+      "id": 154,
+      "mail": "17pa1a04h7@vishnu.edu.in",
+      "name": "Y Naga Manohar",
+      "rollno": "17pa1a04h7",
+      "phonenumber": 9515966223,
+      "Branch": "ECE"
+    },
+    {
+      "id": 155,
+      "mail": "17pa1a0502@vishnu.edu.in",
+      "name": "Bhanu Prakash",
+      "rollno": "17pa1a0502",
+      "phonenumber": 8374717986,
+      "Branch": "CSE"
+    },
+    {
+      "id": 156,
+      "mail": "17pa1a0506@vishnu.edu.in",
+      "name": "A Krupa Jessica",
+      "rollno": "17pa1a0506",
+      "phonenumber": 9550700994,
+      "Branch": "CSE"
+    },
+    {
+      "id": 157,
+      "mail": "17pa1a0507@vishnu.edu.in",
+      "name": "Annepu sahasra",
+      "rollno": "17pa1a0507",
+      "phonenumber": 9849649946,
+      "Branch": "CSE"
+    },
+    {
+      "id": 158,
+      "mail": "17pa1a0512@vishnu.edu.in",
+      "name": "Bezawada Sadhvi",
+      "rollno": "17pa1a0512",
+      "phonenumber": 9182143075,
+      "Branch": "CSE"
+    },
+    {
+      "id": 159,
+      "mail": "17pa1a0515@vishnu.edu.in",
+      "name": "B.Lavanya",
+      "rollno": "17pa1a0515",
+      "phonenumber": 9010600628,
+      "Branch": "CSE"
+    },
+    {
+      "id": 160,
+      "mail": "17pa1a0518@vishnu.edu.in",
+      "name": "Vishnu Satya Raghu Vamsi",
+      "rollno": "17pa1a0518",
+      "phonenumber": 9182462147,
+      "Branch": "CSE"
+    },
+    {
+      "id": 161,
+      "mail": "17pa1a0519@vishnu.edu.in",
+      "name": "Chalamalasetti.Mounica",
+      "rollno": "17pa1a0519",
+      "phonenumber": 8074066567,
+      "Branch": "CSE"
+    },
+    {
+      "id": 162,
+      "mail": "17pa1a0522@vishnu.edu.in",
+      "name": "Chinni . Alekhya",
+      "rollno": "17pa1a0522",
+      "phonenumber": 8096712438,
+      "Branch": "CSE"
+    },
+    {
+      "id": 163,
+      "mail": "17pa1a0524@vishnu.edu.in",
+      "name": "Ch .Sai Praveen",
+      "rollno": "17pa1a0525",
+      "phonenumber": 8367481771,
+      "Branch": "CSE"
+    },
+    {
+      "id": 164,
+      "mail": "17pa1a0525@vishnu.edu.in",
+      "name": "saikiran",
+      "rollno": "17pa1a0525",
+      "phonenumber": 9441243000,
+      "Branch": "CSE"
+    },
+    {
+      "id": 165,
+      "mail": "17pa1a0529@vishnu.edu.in",
+      "name": "Dasari meghana",
+      "rollno": "17pa1a0529",
+      "phonenumber": 9121421522,
+      "Branch": "CSE"
+    },
+    {
+      "id": 166,
+      "mail": "17pa1a0531@vishnu.edu.in",
+      "name": "Dirisala Lavanya",
+      "rollno": "17pa1a0531",
+      "phonenumber": 9959906809,
+      "Branch": "CSE"
+    },
+    {
+      "id": 167,
+      "mail": "17pa1a0532@vishnu.edu.in",
+      "name": "Kamal tej",
+      "rollno": "17pa1a0532",
+      "phonenumber": 7780597594,
+      "Branch": "CSE"
+    },
+    {
+      "id": 168,
+      "mail": "17pa1a0537@vishnu.edu.in",
+      "name": "Siva sankar gannamani",
+      "rollno": "17pa1a0537",
+      "phonenumber": 9492323550,
+      "Branch": "CSE"
+    },
+    {
+      "id": 169,
+      "mail": "17pa1a0538@vishnu.edu.in",
+      "name": "Yathishbhargav",
+      "rollno": "17pa1a0538",
+      "phonenumber": 6300433384,
+      "Branch": "CSE"
+    },
+    {
+      "id": 170,
+      "mail": "17pa1a0539@vishnu.edu.in",
+      "name": "G Bulli Ramesh",
+      "rollno": "17pa1a0539",
+      "phonenumber": 9533666693,
+      "Branch": "CSE"
+    },
+    {
+      "id": 171,
+      "mail": "17pa1a0543@vishnu.edu.in",
+      "name": "Sruthi Godavarthi",
+      "rollno": "17pa1a0543",
+      "phonenumber": 9705798849,
+      "Branch": "CSE"
+    },
+    {
+      "id": 172,
+      "mail": "17pa1a0544@vishnu.edu.in",
+      "name": "G.kavya",
+      "rollno": "17pa1a0544",
+      "phonenumber": 9494987886,
+      "Branch": "CSE"
+    },
+    {
+      "id": 173,
+      "mail": "17pa1a0545@vishnu.edu.in",
+      "name": "Gopisetti Lahari",
+      "rollno": "17pa1a0545",
+      "phonenumber": 9182774887,
+      "Branch": "CSE"
+    },
+    {
+      "id": 174,
+      "mail": "17pa1a0546@vishnu.edu.in",
+      "name": "Raga Swarupa",
+      "rollno": "17pa1a0546",
+      "phonenumber": 8328677531,
+      "Branch": "CSE"
+    },
+    {
+      "id": 175,
+      "mail": "17pa1a0547@vishnu.edu.in",
+      "name": "Goriparthi Anvitha",
+      "rollno": "17pa1a0547",
+      "phonenumber": 8639727723,
+      "Branch": "CSE"
+    },
+    {
+      "id": 176,
+      "mail": "17pa1a0548@vishnu.edu.in",
+      "name": "Grandhi.hima varshini",
+      "rollno": "17pa1a0548",
+      "phonenumber": 9494428585,
+      "Branch": "CSE"
+    },
+    {
+      "id": 177,
+      "mail": "17pa1a0549@vishnu.edu.in",
+      "name": "Grandhi Sri Ram",
+      "rollno": "17pa1a0549",
+      "phonenumber": 8897821535,
+      "Branch": "CSE"
+    },
+    {
+      "id": 178,
+      "mail": "17pa1a0552@vishnu.edu.in",
+      "name": "hanumanthu harisha",
+      "rollno": "17pa1a0552",
+      "phonenumber": 9441164559,
+      "Branch": "CSE"
+    },
+    {
+      "id": 179,
+      "mail": "17pa1a0554@vishnu.edu.in",
+      "name": "Neelima devi irrinki",
+      "rollno": "17pa1a0554",
+      "phonenumber": 8555059211,
+      "Branch": "CSE"
+    },
+    {
+      "id": 180,
+      "mail": "17pa1a0557@vishnu.edu.in",
+      "name": "Sri Guru Vyshnavi J",
+      "rollno": "17pa1a0557",
+      "phonenumber": 9985346112,
+      "Branch": "CSE"
+    },
+    {
+      "id": 181,
+      "mail": "17pa1a0558@vishnu.edu.in",
+      "name": "Meghana. Jillela",
+      "rollno": "17pa1a0558",
+      "phonenumber": 7989550730,
+      "Branch": "CSE"
+    },
+    {
+      "id": 182,
+      "mail": "17pa1a0559@vishnu.edu.in",
+      "name": "Surya Prakash",
+      "rollno": "17pa1a0559",
+      "phonenumber": 9676456277,
+      "Branch": "CSE"
+    },
+    {
+      "id": 183,
+      "mail": "17pa1a0560@vishnu.edu.in",
+      "name": "KADDALA SIVAKUMAR",
+      "rollno": "17pa1a0560",
+      "phonenumber": 9110777907,
+      "Branch": "CSE"
+    },
+    {
+      "id": 184,
+      "mail": "17pa1a0564@vishnu.edu.in",
+      "name": "K.Shalini",
+      "rollno": "17pa1a0564",
+      "phonenumber": 9182568178,
+      "Branch": "CSE"
+    },
+    {
+      "id": 185,
+      "mail": "17pa1a0565@vishnu.edu.in",
+      "name": "Kapusetti venkata durgabhavani",
+      "rollno": "17pa1a0565",
+      "phonenumber": 8096558930,
+      "Branch": "CSE"
+    },
+    {
+      "id": 186,
+      "mail": "17pa1a0568@vishnu.edu.in",
+      "name": "K surya teja",
+      "rollno": "17pa1a0568",
+      "phonenumber": 7981377110,
+      "Branch": "CSE"
+    },
+    {
+      "id": 187,
+      "mail": "17pa1a0569@vishnu.edu.in",
+      "name": "Kattamonika",
+      "rollno": "17pa1a0569",
+      "phonenumber": 9515438445,
+      "Branch": "CSE"
+    },
+    {
+      "id": 188,
+      "mail": "17pa1a0570@vishnu.edu.in",
+      "name": "K Saivamsi",
+      "rollno": "17pa1a0570",
+      "phonenumber": 6300185313,
+      "Branch": "CSE"
+    },
+    {
+      "id": 189,
+      "mail": "17pa1a0571@vishnu.edu.in",
+      "name": "Kolla Ravi Teja",
+      "rollno": "17pa1a0571",
+      "phonenumber": 7995251751,
+      "Branch": "CSE"
+    },
+    {
+      "id": 190,
+      "mail": "17pa1a0577@vishnu.edu.in",
+      "name": "Kone Srimannarayana",
+      "rollno": "17pa1a0577",
+      "phonenumber": 8074575189,
+      "Branch": "CSE"
+    },
+    {
+      "id": 191,
+      "mail": "17pa1a0578@vishnu.edu.in",
+      "name": "Koppuravuri Dakshayani Manozna",
+      "rollno": "17pa1a0578",
+      "phonenumber": 7989913298,
+      "Branch": "CSE"
+    },
+    {
+      "id": 192,
+      "mail": "17pa1a0579@vishnu.edu.in",
+      "name": "KOTHAGUNDU VENKATA KRISHNA RAO",
+      "rollno": "17pa1a0579",
+      "phonenumber": 7997855004,
+      "Branch": "CSE"
+    },
+    {
+      "id": 193,
+      "mail": "17pa1a0581@vishnu.edu.in",
+      "name": "Kukutla. Meghana",
+      "rollno": "17pa1a0581",
+      "phonenumber": 8328035818,
+      "Branch": "CSE"
+    },
+    {
+      "id": 194,
+      "mail": "17pa1a0583@vishnu.edu.in",
+      "name": "Kusumanchi lakshmi mani deepika",
+      "rollno": "17pa1a0583",
+      "phonenumber": 9182848688,
+      "Branch": "CSE"
+    },
+    {
+      "id": 195,
+      "mail": "17pa1a0584@vishnu.edu.in",
+      "name": "Likhithapudi Noel",
+      "rollno": "17pa1a0584",
+      "phonenumber": 7780728032,
+      "Branch": "CSE"
+    },
+    {
+      "id": 196,
+      "mail": "17pa1a0585@vishnu.edu.in",
+      "name": "UMA MAHESH",
+      "rollno": "17pa1a0585",
+      "phonenumber": 7036937998,
+      "Branch": "CSE"
+    },
+    {
+      "id": 197,
+      "mail": "17pa1a0588@vishnu.edu.in",
+      "name": "Mallela Praveen",
+      "rollno": "17pa1a0588",
+      "phonenumber": 9063749365,
+      "Branch": "CSE"
+    },
+    {
+      "id": 198,
+      "mail": "17pa1a0590@vishnu.edu.in",
+      "name": "Malluru Harshitha",
+      "rollno": "17pa1a0590",
+      "phonenumber": 8341651130,
+      "Branch": "CSE"
+    },
+    {
+      "id": 199,
+      "mail": "17pa1a0592@vishnu.edu.in",
+      "name": "tejaswini",
+      "rollno": "17pa1a0592",
+      "phonenumber": 7893405616,
+      "Branch": "CSE"
+    },
+    {
+      "id": 200,
+      "mail": "17pa1a0594@vishnu.edu.in",
+      "name": "Chandana",
+      "rollno": "17pa1a0594",
+      "phonenumber": 9121967679,
+      "Branch": "CSE"
+    },
+    {
+      "id": 201,
+      "mail": "17pa1a05a2@vishnu.edu.in",
+      "name": "Rahul varma",
+      "rollno": "17pa1a05a2",
+      "phonenumber": 8008951636,
+      "Branch": "CSE"
+    },
+    {
+      "id": 202,
+      "mail": "17pa1a05a5@vishnu.edu.in",
+      "name": "N.Dileep Kumar",
+      "rollno": "17pa1a05a5",
+      "phonenumber": 8333032829,
+      "Branch": "CSE"
+    },
+    {
+      "id": 203,
+      "mail": "17pa1a05a6@vishnu.edu.in",
+      "name": "Madhuri Nabigaru",
+      "rollno": "17pa1a05a6",
+      "phonenumber": 8374146986,
+      "Branch": "CSE"
+    },
+    {
+      "id": 204,
+      "mail": "17pa1a05a8@vishnu.edu.in",
+      "name": "Nammi Venkata Balamurali",
+      "rollno": "17pa1a05a8",
+      "phonenumber": 8919331178,
+      "Branch": "CSE"
+    },
+    {
+      "id": 205,
+      "mail": "17pa1a05a9@vishnu.edu.in",
+      "name": "Nandeti Dimple sai Venkatesh",
+      "rollno": "17pa1a05a9",
+      "phonenumber": 8978278147,
+      "Branch": "CSE"
+    },
+    {
+      "id": 206,
+      "mail": "17pa1a05b0@vishnu.edu.in",
+      "name": "Narina Tharaka Sairam",
+      "rollno": "17pa1a05b0",
+      "phonenumber": 9110577600,
+      "Branch": "CSE"
+    },
+    {
+      "id": 207,
+      "mail": "17pa1a05b1@vishnu.edu.in",
+      "name": "NEDURI VEERA VENLATA RAM PANDU",
+      "rollno": "17pa1a05b1",
+      "phonenumber": 7674906716,
+      "Branch": "CSE"
+    },
+    {
+      "id": 208,
+      "mail": "17pa1a05b2@vishnu.edu.in",
+      "name": "Nekkanti venkata s s ramya",
+      "rollno": "17pa1a05b2",
+      "phonenumber": 8790134559,
+      "Branch": "CSE"
+    },
+    {
+      "id": 209,
+      "mail": "17pa1a05b4@vishnu.edu.in",
+      "name": "Nimmadhi  sairam",
+      "rollno": "17pa1a05b4",
+      "phonenumber": 9182519960,
+      "Branch": "CSE"
+    },
+    {
+      "id": 210,
+      "mail": "17pa1a05b5@vishnu.edu.in",
+      "name": "N.L.Sudeepthi",
+      "rollno": "17pa1a05b5",
+      "phonenumber": 9493844433,
+      "Branch": "CSE"
+    },
+    {
+      "id": 211,
+      "mail": "17pa1a05b6@vishnu.edu.in",
+      "name": "Nukala y ch mani rama naidu",
+      "rollno": "17pa1a05b6",
+      "phonenumber": 7981903966,
+      "Branch": "CSE"
+    },
+    {
+      "id": 212,
+      "mail": "17pa1a05b7@vishnu.edu.in",
+      "name": "Nunna Lakshmi Padmavathi",
+      "rollno": "17pa1a05b7",
+      "phonenumber": 8919134397,
+      "Branch": "CSE"
+    },
+    {
+      "id": 213,
+      "mail": "17pa1a05b8@vishnu.edu.in",
+      "name": "P. Mounica Reddy",
+      "rollno": "17pa1a05b8",
+      "phonenumber": 9951572584,
+      "Branch": "CSE"
+    },
+    {
+      "id": 214,
+      "mail": "17pa1a05b9@vishnu.edu.in",
+      "name": "Rangarao Padarthi",
+      "rollno": "17pa1a05b9",
+      "phonenumber": 9701604196,
+      "Branch": "CSE"
+    },
+    {
+      "id": 215,
+      "mail": "17pa1a05c6@vishnu.edu.in",
+      "name": "Penugonda Naga Venkata Raviteja",
+      "rollno": "17pa1a05c6",
+      "phonenumber": 7075133236,
+      "Branch": "CSE"
+    },
+    {
+      "id": 216,
+      "mail": "17pa1a05c9@vishnu.edu.in",
+      "name": "Polisetty Rama Satya Sree Naga Sai",
+      "rollno": "17pa1a05c9",
+      "phonenumber": 9502901362,
+      "Branch": "CSE"
+    },
+    {
+      "id": 217,
+      "mail": "17pa1a05d0@vishnu.edu.in",
+      "name": "Vasantha",
+      "rollno": "17pa1a05d0",
+      "phonenumber": 9542388488,
+      "Branch": "CSE"
+    },
+    {
+      "id": 218,
+      "mail": "17pa1a05d4@vishnu.edu.in",
+      "name": "Ravi Naveen Sai Tanay",
+      "rollno": "17pa1a05d4",
+      "phonenumber": 9000427545,
+      "Branch": "CSE"
+    },
+    {
+      "id": 219,
+      "mail": "17pa1a05d6@vishnu.edu.in",
+      "name": "Srivalli Sadhanala",
+      "rollno": "17pa1a05d6",
+      "phonenumber": 8978431018,
+      "Branch": "CSE"
+    },
+    {
+      "id": 220,
+      "mail": "17pa1a05d9@vishnu.edu.in",
+      "name": "VIJAY KUMAR SALA",
+      "rollno": "17pa1a05d9",
+      "phonenumber": 9515952199,
+      "Branch": "CSE"
+    },
+    {
+      "id": 221,
+      "mail": "17pa1a05e1@vishnu.edu.in",
+      "name": "Sandrana Madhava Sai",
+      "rollno": "17pa1a05e1",
+      "phonenumber": 9908660535,
+      "Branch": "CSE"
+    },
+    {
+      "id": 222,
+      "mail": "17pa1a05e4@vishnu.edu.in",
+      "name": "Sayyed Hussain",
+      "rollno": "17pa1a05e4",
+      "phonenumber": 9618530316,
+      "Branch": "CSE"
+    },
+    {
+      "id": 223,
+      "mail": "17pa1a05e5@vishnu.edu.in",
+      "name": "S. Vijaya naga sindhusha",
+      "rollno": "17pa1a05e5",
+      "phonenumber": 8919272759,
+      "Branch": "CSE"
+    },
+    {
+      "id": 224,
+      "mail": "17pa1a05e7@vishnu.edu.in",
+      "name": "Sk.Ashwah",
+      "rollno": "17pa1a05e7",
+      "phonenumber": 9652584373,
+      "Branch": "CSE"
+    },
+    {
+      "id": 225,
+      "mail": "17pa1a05f1@vishnu.edu.in",
+      "name": "Sunkara pavan kalyan ayyappa",
+      "rollno": "17pa1a05f1",
+      "phonenumber": 9063387434,
+      "Branch": "CSE"
+    },
+    {
+      "id": 226,
+      "mail": "17pa1a05f4@vishnu.edu.in",
+      "name": "T.Usha Naga Sri",
+      "rollno": "17pa1a05f4",
+      "phonenumber": 8464074739,
+      "Branch": "CSE"
+    },
+    {
+      "id": 227,
+      "mail": "17pa1a05g0@vishnu.edu.in",
+      "name": "Hiranmai",
+      "rollno": "17pa1a05g0",
+      "phonenumber": 8309782232,
+      "Branch": "CSE"
+    },
+    {
+      "id": 228,
+      "mail": "17pa1a05g1@vishnu.edu.in",
+      "name": "TUMPUDI MURALI SAI KAMAL SRIKANTH",
+      "rollno": "17pa1a05g1",
+      "phonenumber": 9985385327,
+      "Branch": "CSE"
+    },
+    {
+      "id": 229,
+      "mail": "17pa1a05g3@vishnu.edu.in",
+      "name": "Sridevi vanapalli",
+      "rollno": "17pa1a05g3",
+      "phonenumber": 9505380553,
+      "Branch": "CSE"
+    },
+    {
+      "id": 230,
+      "mail": "17pa1a05g6@vishnu.edu.in",
+      "name": "Vasamsetti Satyendra Prasad",
+      "rollno": "17pa1a05g6",
+      "phonenumber": 9182383849,
+      "Branch": "CSE"
+    },
+    {
+      "id": 231,
+      "mail": "17pa1a05g9@vishnu.edu.in",
+      "name": "Sushma",
+      "rollno": "17pa1a05g9",
+      "phonenumber": 9133731484,
+      "Branch": "CSE"
+    },
+    {
+      "id": 232,
+      "mail": "17pa1a05h1@vishnu.edu.in",
+      "name": "yalamati rohini",
+      "rollno": "17pa1a05h1",
+      "phonenumber": 9652814678,
+      "Branch": "CSE"
+    },
+    {
+      "id": 233,
+      "mail": "17pa1a05h2@vishnu.edu.in",
+      "name": "Y. Namratha",
+      "rollno": "17pa1a05h2",
+      "phonenumber": 8978970573,
+      "Branch": "CSE"
+    },
+    {
+      "id": 234,
+      "mail": "17pa1a1201@vishnu.edu.in",
+      "name": "Amujala Bhavana",
+      "rollno": "17pa1a1201",
+      "phonenumber": 7993118439,
+      "Branch": "IT"
+    },
+    {
+      "id": 235,
+      "mail": "17pa1a1202@vishnu.edu.in",
+      "name": "Appada Aravinda Prakash",
+      "rollno": "17pa1a1202",
+      "phonenumber": 7981768029,
+      "Branch": "IT"
+    },
+    {
+      "id": 236,
+      "mail": "17pa1a1203@vishnu.edu.in",
+      "name": "Atava Ayyappaswamy",
+      "rollno": "17pa1a1203",
+      "phonenumber": 9912304877,
+      "Branch": "IT"
+    },
+    {
+      "id": 237,
+      "mail": "17pa1a1205@vishnu.edu.in",
+      "name": "BELLAMKONDA ROHIN SURYA PRAKASH",
+      "rollno": "17pa1a1205",
+      "phonenumber": 9959743912,
+      "Branch": "IT"
+    },
+    {
+      "id": 238,
+      "mail": "17pa1a1206@vishnu.edu.in",
+      "name": "BONDADA NAGA SRI ATCHUTA SATYA KAPIL",
+      "rollno": "17pa1a1206",
+      "phonenumber": 9908346678,
+      "Branch": "IT"
+    },
+    {
+      "id": 239,
+      "mail": "17pa1a1207@vishnu.edu.in",
+      "name": "Buri Tejaswi",
+      "rollno": "17pa1a1207",
+      "phonenumber": 9121055809,
+      "Branch": "IT"
+    },
+    {
+      "id": 240,
+      "mail": "17pa1a1209@vishnu.edu.in",
+      "name": "Anusha dasireddy",
+      "rollno": "17pa1a1209",
+      "phonenumber": 8247273484,
+      "Branch": "IT"
+    },
+    {
+      "id": 241,
+      "mail": "17pa1a1210@vishnu.edu.in",
+      "name": "Datla ANNAPURNA",
+      "rollno": "17pa1a1210",
+      "phonenumber": 8466839877,
+      "Branch": "IT"
+    },
+    {
+      "id": 242,
+      "mail": "17pa1a1217@vishnu.edu.in",
+      "name": "Juveriya Tasneem",
+      "rollno": "17pa1a1217",
+      "phonenumber": 7995995690,
+      "Branch": "IT"
+    },
+    {
+      "id": 243,
+      "mail": "17pa1a1220@vishnu.edu.in",
+      "name": "K.Tejaswini",
+      "rollno": "17pa1a1220",
+      "phonenumber": 9121715502,
+      "Branch": "IT"
+    },
+    {
+      "id": 244,
+      "mail": "17pa1a1223@vishnu.edu.in",
+      "name": "kudipudi yagna sree naga valli",
+      "rollno": "17pa1a1223",
+      "phonenumber": 9110566455,
+      "Branch": "IT"
+    },
+    {
+      "id": 245,
+      "mail": "17pa1a1225@vishnu.edu.in",
+      "name": "Lokam jhnana reshmika",
+      "rollno": "17pa1a1225",
+      "phonenumber": 6300454989,
+      "Branch": "IT"
+    },
+    {
+      "id": 246,
+      "mail": "17pa1a1226@vishnu.edu.in",
+      "name": "anjani marripudi",
+      "rollno": "17pa1a1226",
+      "phonenumber": 7989046074,
+      "Branch": "IT"
+    },
+    {
+      "id": 247,
+      "mail": "17pa1a1227@vishnu.edu.in",
+      "name": "MATLAPUDI N V MANASA",
+      "rollno": "17pa1a1227",
+      "phonenumber": 7780796888,
+      "Branch": "IT"
+    },
+    {
+      "id": 248,
+      "mail": "17pa1a1228@vishnu.edu.in",
+      "name": "MD Ayeshma",
+      "rollno": "17pa1a1228",
+      "phonenumber": 7036992616,
+      "Branch": "IT"
+    },
+    {
+      "id": 249,
+      "mail": "17pa1a1230@vishnu.edu.in",
+      "name": "Munukoti Chandana",
+      "rollno": "17pa1a1230",
+      "phonenumber": 9493378989,
+      "Branch": "IT"
+    },
+    {
+      "id": 250,
+      "mail": "17pa1a1231@vishnu.edu.in",
+      "name": "Nachu N D V Prasad",
+      "rollno": "17pa1a1231",
+      "phonenumber": 9492874877,
+      "Branch": "IT"
+    },
+    {
+      "id": 251,
+      "mail": "17pa1a1234@vishnu.edu.in",
+      "name": "Naresh Babu Nangineedi",
+      "rollno": "17pa1a1234",
+      "phonenumber": 9515359136,
+      "Branch": "IT"
+    },
+    {
+      "id": 252,
+      "mail": "17pa1a1236@vishnu.edu.in",
+      "name": "Nekkalapudi Basanth",
+      "rollno": "17pa1a1236",
+      "phonenumber": 9333999699,
+      "Branch": "IT"
+    },
+    {
+      "id": 253,
+      "mail": "17pa1a1237@vishnu.edu.in",
+      "name": "Nekkalapudi Rama Lakshmi",
+      "rollno": "17pa1a1237",
+      "phonenumber": 7993997150,
+      "Branch": "IT"
+    },
+    {
+      "id": 254,
+      "mail": "17pa1a1246@vishnu.edu.in",
+      "name": "PENMETSA SHANMITHA POOJA",
+      "rollno": "17pa1a1246",
+      "phonenumber": 8341428644,
+      "Branch": "IT"
+    },
+    {
+      "id": 255,
+      "mail": "17pa1a1248@vishnu.edu.in",
+      "name": "Puppala Deepak venkayya naidu",
+      "rollno": "17pa1a1248",
+      "phonenumber": 8367713522,
+      "Branch": "IT"
+    },
+    {
+      "id": 256,
+      "mail": "17pa1a1251@vishnu.edu.in",
+      "name": "Jagadeesh kumar",
+      "rollno": "17pa1a1251",
+      "phonenumber": 9182437572,
+      "Branch": "IT"
+    },
+    {
+      "id": 257,
+      "mail": "17pa1a1256@vishnu.edu.in",
+      "name": "Sai swetha",
+      "rollno": "17pa1a1256",
+      "phonenumber": 9666891788,
+      "Branch": "IT"
+    },
+    {
+      "id": 258,
+      "mail": "17pa1a1235@vishnu.edu.in",
+      "name": "V Rashmitha",
+      "rollno": "17pa1a1257",
+      "phonenumber": 8317619992,
+      "Branch": "IT"
+    },
+    {
+      "id": 259,
+      "mail": "17pa1a1258@vishnu.edu.in",
+      "name": "V. Bharathi",
+      "rollno": "17pa1a1288",
+      "phonenumber": 9951106649,
+      "Branch": "IT"
+    },
+    {
+      "id": 260,
+      "mail": "18pa5a0213@vishnu.edu.in",
+      "name": "Guttula jaya balaji",
+      "rollno": "18pa5a0213",
+      "phonenumber": 7013873799,
+      "Branch": "EEE"
+    },
+    {
+      "id": 261,
+      "mail": "18pa5a0214@vishnu.edu.in",
+      "name": "K RAMA VENKATA SIVA SAI",
+      "rollno": "18pa5a0214",
+      "phonenumber": 9505153177,
+      "Branch": "EEE"
+    },
+    {
+      "id": 262,
+      "mail": "18pa5a0218@vishnu.edu.in",
+      "name": "Madepalli V V D G Sivanagu",
+      "rollno": "18pa5a0218",
+      "phonenumber": 8885458868,
+      "Branch": "EEE"
+    },
+    {
+      "id": 263,
+      "mail": "18pa5a0212@vishnu.edu.in",
+      "name": "N.Manoj kumar",
+      "rollno": "18pa5a0219",
+      "phonenumber": 7386709031,
+      "Branch": "EEE"
+    },
+    {
+      "id": 264,
+      "mail": "18pa5a0223@vishnu.edu.in",
+      "name": "Durga prasanna saride",
+      "rollno": "18pa5a0223",
+      "phonenumber": 8555992972,
+      "Branch": "EEE"
+    },
+    {
+      "id": 265,
+      "mail": "18pa5a0224@vishnu.edu.in",
+      "name": "SRI KRISHNA CHAITANYA VARMA D",
+      "rollno": "18pa5a0224",
+      "phonenumber": 7032161383,
+      "Branch": "EEE"
+    },
+    {
+      "id": 266,
+      "mail": "18pa5a0227@vishnu.edu.in",
+      "name": "VADDIMUKKALA RAHUL",
+      "rollno": "18pa5a0227",
+      "phonenumber": 9491708365,
+      "Branch": "EEE"
+    },
+    {
+      "id": 267,
+      "mail": "18pa5a0229@vishnu.edu.in",
+      "name": "Mandela shiva",
+      "rollno": "18pa5a0229",
+      "phonenumber": 7995684101,
+      "Branch": "EEE"
+    },
+    {
+      "id": 268,
+      "mail": "18pa5a0231@vishnu.edu.in",
+      "name": "T saisandeep",
+      "rollno": "18pa5a0231",
+      "phonenumber": 9948093488,
+      "Branch": "EEE"
+    },
+    {
+      "id": 269,
+      "mail": "18pa5a0304@vishnu.edu.in",
+      "name": "CHENNURI PRASANTH KUMAR",
+      "rollno": "18pa5a0304",
+      "phonenumber": 8919303859,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 270,
+      "mail": "18pa5a0307@vishnu.edu.in",
+      "name": "Venkata RamaRaju",
+      "rollno": "18pa5a0307",
+      "phonenumber": 9676969132,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 271,
+      "mail": "18pa5a0308@vishnu.edu.in",
+      "name": "Ganta Naga Durga Rao",
+      "rollno": "18pa5a0308",
+      "phonenumber": 9154963625,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 272,
+      "mail": "18pa5a0309@vishnu.edu.in",
+      "name": "G.Dileep kumar",
+      "rollno": "18pa5a0309",
+      "phonenumber": 9912270570,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 273,
+      "mail": "18pa5a0310@vishnu.edu.in",
+      "name": "I balaji",
+      "rollno": "18pa5a0310",
+      "phonenumber": 9908954583,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 274,
+      "mail": "18pa5a0316@vishnu.edu.in",
+      "name": "Malladi suresh kumar",
+      "rollno": "18pa5a0316",
+      "phonenumber": 9703535204,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 275,
+      "mail": "18pa5a0317@vishnu.edu.in",
+      "name": "MANGINA RAJESH",
+      "rollno": "18pa5a0317",
+      "phonenumber": 8297626381,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 276,
+      "mail": "18pa5a0320@vishnu.edu.in",
+      "name": "Peeta manideep sai",
+      "rollno": "18pa5a0320",
+      "phonenumber": 9491042917,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 277,
+      "mail": "18pa5a0323@vishnu.edu.in",
+      "name": "Ravada vinay kumar",
+      "rollno": "18pa5a0323",
+      "phonenumber": 9848027623,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 278,
+      "mail": "18pa5a0326@vishnu.edu.in",
+      "name": "Vanapalli tirumala vasu",
+      "rollno": "18pa5a0326",
+      "phonenumber": 9100460691,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 279,
+      "mail": "18pa5a0328@vishnu.edu.in",
+      "name": "VAJJIPARTHI YASWANTHKRISHNA",
+      "rollno": "18pa5a0328",
+      "phonenumber": 8367501615,
+      "Branch": "Mechanical"
+    },
+    {
+      "id": 280,
+      "mail": "18pa5a0402@vishnu.edu.in",
+      "name": "AKURATHI RAJASEKHAR",
+      "rollno": "18pa5a0402",
+      "phonenumber": 9100871878,
+      "Branch": "ECE"
+    },
+    {
+      "id": 281,
+      "mail": "18pa5a0406@vishnu.edu.in",
+      "name": "CHINNAMSETTI L V V SATYANARAYANA SWAMY",
+      "rollno": "18pa5a0406",
+      "phonenumber": 9553229871,
+      "Branch": "ECE"
+    },
+    {
+      "id": 282,
+      "mail": "18pa5a0407@vishnu.edu.in",
+      "name": "Mohith Gadamsetty",
+      "rollno": "18pa5a0407",
+      "phonenumber": 8143226962,
+      "Branch": "ECE"
+    },
+    {
+      "id": 283,
+      "mail": "18pa5a0410@vishnu.edu.in",
+      "name": "GUNNAM SURYA KRISHNA",
+      "rollno": "18pa5a0410",
+      "phonenumber": 8497919909,
+      "Branch": "ECE"
+    },
+    {
+      "id": 284,
+      "mail": "18pa5a0411@vishnu.edu.in",
+      "name": "Jaladani venkateswara rao",
+      "rollno": "18pa5a0411",
+      "phonenumber": 9100605137,
+      "Branch": "ECE"
+    },
+    {
+      "id": 285,
+      "mail": "18pa5a0413@vishnu.edu.in",
+      "name": "K.VENKATA MANOHAR",
+      "rollno": "18pa5a0413",
+      "phonenumber": 9059101164,
+      "Branch": "ECE"
+    },
+    {
+      "id": 286,
+      "mail": "18pa5a0414@vishnu.edu.in",
+      "name": "Kondisetti ramesh",
+      "rollno": "18pa5a0414",
+      "phonenumber": 9491410999,
+      "Branch": "ECE"
+    },
+    {
+      "id": 287,
+      "mail": "18pa5a0415@vishnu.edu.in",
+      "name": "K. S. S. M. Kumar",
+      "rollno": "18pa5a0415",
+      "phonenumber": 9542460547,
+      "Branch": "ECE"
+    },
+    {
+      "id": 288,
+      "mail": "18pa5a0416@vishnu.edu.in",
+      "name": "LINGINENI BINDU PRASANNA LAKSHMI",
+      "rollno": "18pa5a0416",
+      "phonenumber": 8500703525,
+      "Branch": "ECE"
+    },
+    {
+      "id": 289,
+      "mail": "18pa5a0421@vishnu.edu.in",
+      "name": "M.Bharath kumar",
+      "rollno": "18pa5a0421",
+      "phonenumber": 9676591457,
+      "Branch": "ECE"
+    },
+    {
+      "id": 290,
+      "mail": "18pa5a0422@vishnu.edu.in",
+      "name": "Medapati madhu bala",
+      "rollno": "18pa5a0422",
+      "phonenumber": 9347797777,
+      "Branch": "ECE"
+    },
+    {
+      "id": 291,
+      "mail": "18pa5a0423@vishnu.edu.in",
+      "name": "N.Nagaraju",
+      "rollno": "18pa5a0423",
+      "phonenumber": 9133035995,
+      "Branch": "ECE"
+    },
+    {
+      "id": 292,
+      "mail": "18pa5a0426@vishnu.edu.in",
+      "name": "Pechchetti saiphaneendra",
+      "rollno": "18pa5a0426",
+      "phonenumber": 7032336960,
+      "Branch": "ECE"
+    },
+    {
+      "id": 293,
+      "mail": "18pa5a0427@vishnu.edu.in",
+      "name": "Rajesh",
+      "rollno": "18pa5a0427",
+      "phonenumber": 9705743543,
+      "Branch": "ECE"
+    },
+    {
+      "id": 294,
+      "mail": "18pa5a0428@vishnu.edu.in",
+      "name": "PEDDIREDDY.VENKATA NAGA SANTHOSH",
+      "rollno": "18pa5a0428",
+      "phonenumber": 7780280171,
+      "Branch": "ECE"
+    },
+    {
+      "id": 295,
+      "mail": "18pa5a0429@vishnu.edu.in",
+      "name": "Naga sai",
+      "rollno": "18pa5a0429",
+      "phonenumber": 8341379074,
+      "Branch": "ECE"
+    },
+    {
+      "id": 296,
+      "mail": "18pa5a0430@vishnu.edu.in",
+      "name": "Prem sai",
+      "rollno": "18pa5a0430",
+      "phonenumber": 9866258443,
+      "Branch": "ECE"
+    },
+    {
+      "id": 297,
+      "mail": "18pa5a0433@vishnu.edu.in",
+      "name": "Gangadhar.T",
+      "rollno": "18pa5a0433",
+      "phonenumber": 9515846269,
+      "Branch": "ECE"
+    },
+    {
+      "id": 298,
+      "mail": "18pa5a0435@vishnu.edu.in",
+      "name": "Veeravalli vijaya lakshmi",
+      "rollno": "18pa5a0435",
+      "phonenumber": 9652671246,
+      "Branch": "ECE"
+    },
+    {
+      "id": 299,
+      "mail": "18pa5a0436@vishnu.edu.in",
+      "name": "Vishnumolakala jyoshanth",
+      "rollno": "18pa5a0436",
+      "phonenumber": 7989236694,
+      "Branch": "ECE"
+    },
+    {
+      "id": 300,
+      "mail": "18pa5a0437@vishnu.edu.in",
+      "name": "yamalavalasa supriya",
+      "rollno": "18pa5a0437",
+      "phonenumber": 8186869667,
+      "Branch": "ECE"
     }
   ],
   "attendance": [
-    {
-      "jki": "{\"type\":\"present\",\"session\":\"morning\",\"list\":{\"15PA1A05D0\":\"present\",\"15PA1A05e0\":\"present\",\"15PA1A05f0\":\"present\",\"15PA1A05c0\":\"present\",\"15PA1A05g0\":\"present\"}}",
-      "id": 1
-    },
-    {
-      "jki": "{\"type\":\"present\",\"session\":\"morning\",\"list\":{\"15PA1A05D0\":\"present\",\"15PA1A05e0\":\"present\",\"15PA1A05f0\":\"present\",\"15PA1A05c0\":\"present\",\"15PA1A05g0\":\"present\"}}",
-      "id": 2
-    },
-    {
-      "x": "{\"type\":\"present\",\"session\":\"morning\",\"list\":{\"15PA1A05D0\":\"present\",\"15PA1A05e0\":\"present\",\"15PA1A05f0\":\"present\",\"15PA1A05c0\":\"present\",\"15PA1A05g0\":\"present\"}}",
-      "id": 3
-    },
-    {
-      "obj": {
-        "type": "present",
-        "session": "morning",
-        "list": {
-          "15PA1A05D0": "present",
-          "15PA1A05e0": "present",
-          "15PA1A05f0": "present",
-          "15PA1A05c0": "present",
-          "15PA1A05g0": "present"
-        }
-      },
-      "id": 4
-    },
-    {
-      "obj": {
-        "type": "present",
-        "session": "morning",
-        "list": {
-          "15PA1A05D0": "abscent",
-          "15PA1A05e0": "abscent",
-          "15PA1A05f0": "present",
-          "15PA1A05c0": "abscent",
-          "15PA1A05g0": "present"
-        }
-      },
-      "id": 5
-    },
-    {
-      "obj": {
-        "type": "abscent",
-        "session": "morning",
-        "list": {
-          "15PA1A05D0": "present",
-          "15PA1A05e0": "abscent",
-          "15PA1A05f0": "abscent",
-          "15PA1A05c0": "present",
-          "15PA1A05g0": "present"
-        }
-      },
-      "id": 6
-    }
+    
+      
   ]
 }
