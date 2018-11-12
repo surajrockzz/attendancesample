@@ -1,0 +1,95 @@
+{
+  "studentslist": [
+    {
+      "id": 1,
+      "rollno": "15PA1A05D0",
+      "name": "P S N V N SURAJ",
+      "mail": "15pa1a05d0@vishnu.edu.in",
+      "Branch": "CSE"
+    },
+    {
+      "id": 2,
+      "rollno": "15PA1A05e0",
+      "name": "P L Sai kishan",
+      "mail": "15pa1a05e0@vishnu.edu.in",
+      "Branch": "CSE"
+    },
+    {
+      "id": 3,
+      "rollno": "15PA1A05f0",
+      "name": "S Krishna",
+      "mail": "15pa1a05f0@vishnu.edu.in",
+      "Branch": "CSE"
+    },
+    {
+      "id": 4,
+      "rollno": "15PA1A05c0",
+      "name": "P Sai Kiran",
+      "mail": "15pa1a05c0@vishnu.edu.in",
+      "Branch": "CSE"
+    },
+    {
+      "id": 5,
+      "rollno": "15PA1A05g0",
+      "name": "T Sri Ram Prasad",
+      "mail": "15pa1a05g0@vishnu.edu.in",
+      "Branch": "CSE"
+    }
+  ],
+  "attendance": [
+    {
+      "jki": "{\"type\":\"present\",\"session\":\"morning\",\"list\":{\"15PA1A05D0\":\"present\",\"15PA1A05e0\":\"present\",\"15PA1A05f0\":\"present\",\"15PA1A05c0\":\"present\",\"15PA1A05g0\":\"present\"}}",
+      "id": 1
+    },
+    {
+      "jki": "{\"type\":\"present\",\"session\":\"morning\",\"list\":{\"15PA1A05D0\":\"present\",\"15PA1A05e0\":\"present\",\"15PA1A05f0\":\"present\",\"15PA1A05c0\":\"present\",\"15PA1A05g0\":\"present\"}}",
+      "id": 2
+    },
+    {
+      "x": "{\"type\":\"present\",\"session\":\"morning\",\"list\":{\"15PA1A05D0\":\"present\",\"15PA1A05e0\":\"present\",\"15PA1A05f0\":\"present\",\"15PA1A05c0\":\"present\",\"15PA1A05g0\":\"present\"}}",
+      "id": 3
+    },
+    {
+      "obj": {
+        "type": "present",
+        "session": "morning",
+        "list": {
+          "15PA1A05D0": "present",
+          "15PA1A05e0": "present",
+          "15PA1A05f0": "present",
+          "15PA1A05c0": "present",
+          "15PA1A05g0": "present"
+        }
+      },
+      "id": 4
+    },
+    {
+      "obj": {
+        "type": "present",
+        "session": "morning",
+        "list": {
+          "15PA1A05D0": "abscent",
+          "15PA1A05e0": "abscent",
+          "15PA1A05f0": "present",
+          "15PA1A05c0": "abscent",
+          "15PA1A05g0": "present"
+        }
+      },
+      "id": 5
+    },
+    {
+      "obj": {
+        "type": "abscent",
+        "session": "morning",
+        "list": {
+          "15PA1A05D0": "present",
+          "15PA1A05e0": "abscent",
+          "15PA1A05f0": "abscent",
+          "15PA1A05c0": "present",
+          "15PA1A05g0": "present"
+        }
+      },
+      "id": 6
+    }
+  ]
+}
