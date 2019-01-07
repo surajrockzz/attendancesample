@@ -26,8 +26,7 @@ class Attendance extends Component{
     }
     fetchStudentNames() {
         fetch(`${BASE_URL}/studentslist`,{method: 'GET'})
-        .then(response => response.json()
-        )
+        .then(response => response.json())
         .then(json =>{
             this.setState({
                 StudentsList: json

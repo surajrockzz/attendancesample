@@ -6,7 +6,8 @@ class StudentsList extends Component{
     constructor(props){
         super(props)
         this.state={
-            StudentsList:''
+            StudentsList:'',
+            keyword:''
         }
     }
     fetchStudentNames() {
@@ -15,16 +16,35 @@ class StudentsList extends Component{
         )
         .then(json =>{
             this.setState({
-                StudentsList: json
+                StudentsList: json,
+                filtered:json
             })
         })
     }
     componentDidMount(){
         this.fetchStudentNames()
     }
-    renderNames({StudentsList}){
-        if (StudentsList){
-            return StudentsList.map((student)=>{
+    searchName= (event)=>{
+        const keyword = event.target.value
+        if(keyword !== ''){
+             const list = this.state.StudentsList.filter((student)=>{
+                return student.name.toLowerCase().indexOf(keyword.toLowerCase())>-1
+            })
+            this.setState({
+                filtered:list,
+                keyword:event.target.value
+            })
+        }
+        else {
+            this.setState({
+                filtered: this.state.StudentsList,
+                keyword: event.target.value
+            })
+    }
+}
+    renderNames ({filtered}){
+        if (filtered){
+            return filtered.map((student)=>{
                 return(
                     <tr>
       <th scope="row">{student.id}</th>
@@ -46,8 +66,9 @@ class StudentsList extends Component{
 
     render(){
         return (
-           < div className="home_poll">
+           < div className="container home_poll">
             <h3>Student details</h3>
+            <input className= "form-control" type="text" value={this.state.keyword} onChange={(e)=> this.searchName(e)}/>
             <div>
                 <table className="table">
                     <thead>
